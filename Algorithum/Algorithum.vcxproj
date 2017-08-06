@@ -24,6 +24,7 @@
     <ClCompile Include="000_anagrams_156.cpp" />
     <ClCompile Include="000_erazeDuplicates.cpp" />
     <ClCompile Include="000_integer_03_removeDupulicates.cpp" />
+    <ClCompile Include="000_merge_sorted_array.cpp" />
     <ClCompile Include="000_PAIR_SortByKey.cpp" />
     <ClCompile Include="000_remove_duplicates_.cpp" />
     <ClCompile Include="000_remove_duplicates_03.cpp" />

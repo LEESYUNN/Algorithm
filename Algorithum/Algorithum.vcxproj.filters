@@ -93,6 +93,9 @@
     <ClCompile Include="000_remove_duplicates_.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="000_merge_sorted_array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SingleList.h">
